@@ -15,7 +15,7 @@ by the University of Colorado. This is the fourth and last course in this specia
 - [Certificate](#-certificate)
 
 ## Week 1 - Asymmetric Cryptography Overview
-- [Quiz: Asymmetric Cryptography Overview]()
+- [Quiz: Asymmetric Cryptography Overview](week1/quiz-asymmetric-cryptography-overview.md)
 
 ## Week 2 - RSA Algorithm
 - [Quiz: RSA Operations]()
