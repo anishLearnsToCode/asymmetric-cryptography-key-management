@@ -18,8 +18,8 @@ by the University of Colorado. This is the fourth and last course in this specia
 - [Quiz: Asymmetric Cryptography Overview](week1/quiz-asymmetric-cryptography-overview.md)
 
 ## Week 2 - RSA Algorithm
-- [Quiz: RSA Operations]()
-- [Quiz: RSA Algorithm]() 
+- [Quiz: RSA Operations](week2/quiz-rsa-operations.md)
+- [Quiz: RSA Algorithm](week2/quiz-rsa-algorithm.md) 
 
 ## Week 3 - Diffie Hellman Key Exchange
 - [Quiz: Discrete Logarithm and Primitive Root]()

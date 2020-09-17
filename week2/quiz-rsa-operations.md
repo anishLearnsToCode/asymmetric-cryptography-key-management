@@ -1,0 +1,5 @@
+![question-1](assets/rsa-operations/question-1.PNG)
+![question-1](assets/rsa-operations/question-2.PNG)
+![question-1](assets/rsa-operations/question-3.PNG)
+![question-1](assets/rsa-operations/question-4.PNG)
+![question-1](assets/rsa-operations/question-5.PNG)
