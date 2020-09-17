@@ -11,7 +11,7 @@ by the University of Colorado. This is the fourth and last course in this specia
 - [Week 1](#week-1---asymmetric-cryptography-overview)
 - [Week 2](#week-2---rsa-algorithm)
 - [Week 3](#week-3---diffie-hellman-key-exchange)
-- [Week 4](#week-4--key-distribution-and-management)
+- [Week 4](#week-4---key-distribution-and-management)
 - [Certificate](#-certificate)
 
 ## Week 1 - Asymmetric Cryptography Overview
@@ -28,4 +28,5 @@ by the University of Colorado. This is the fourth and last course in this specia
 ## Week 4 - Key Distribution and Management
 - [Quiz: Key Distribution and Management](week4/key-distribution-and-management.md)
 
-## 🎓 Certificate
+## [🎓](http://coursera.org/verify/KLZSC7H2JH72) Certificate
+![certificate](assets/certificate.PNG)
