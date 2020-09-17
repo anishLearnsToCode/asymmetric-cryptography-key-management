@@ -1,4 +1,4 @@
-# Asymmetric Cryptography and Key Management
+# Asymmetric Cryptography & Key Management
 
 [![specialization](https://img.shields.io/badge/specialization-Introdution%20to%20Applied%20Cryptography-1f72ff.svg)](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
 [![course-list](https://img.shields.io/badge/also%20see-Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
@@ -22,10 +22,10 @@ by the University of Colorado. This is the fourth and last course in this specia
 - [Quiz: RSA Algorithm](week2/quiz-rsa-algorithm.md) 
 
 ## Week 3 - Diffie Hellman Key Exchange
-- [Quiz: Discrete Logarithm and Primitive Root]()
-- [Quiz: Diffie-Hellman Key Exchange and El Gamal Encryption]()
+- [Quiz: Discrete Logarithm and Primitive Root](week3/discrete-log-and-primitive-root.md)
+- [Quiz: Diffie-Hellman Key Exchange and El Gamal Encryption](week3/quiz-diffie-hellman-key-exchange.md)
 
 ## Week 4- Key Distribution and Management
-- [Quiz: Key Distribution and Management]()
+- [Quiz: Key Distribution and Management](week4/key-distribution-and-management.md)
 
 ## 🎓 Certificate
