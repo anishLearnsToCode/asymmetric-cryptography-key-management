@@ -8,10 +8,10 @@ This is part of the 4 course specialization
 by the University of Colorado. This is the fourth and last course in this specialization.
 
 ## 📖 Overview
-- [Week 1](#week-1)
-- [Week 1](#week-2)
-- [Week 1](#week-3)
-- [Week 1](#week-4)
+- [Week 1](#week-1---asymmetric-cryptography-overview)
+- [Week 1](#week-2---rsa-algorithm)
+- [Week 1](#week-3---diffie-hellman-key-exchange)
+- [Week 1](#week-4--key-distribution-and-management)
 - [Certificate](#-certificate)
 
 ## Week 1 - Asymmetric Cryptography Overview
