@@ -1,4 +1,4 @@
-![question-1](assets/asymmetric-crypto-overview/question-1-i.PNG)
+![question-1](assets/asymmetric-crypto-overview/question-1.PNG)
 ![question-2](assets/asymmetric-crypto-overview/question-2.PNG)
 ![question-3](assets/asymmetric-crypto-overview/question-3.PNG)
 ![question-4](assets/asymmetric-crypto-overview/question-4.PNG)
